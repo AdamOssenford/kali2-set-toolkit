@@ -1,3 +1,4 @@
+
 ####################################################
 # YOU CAN USE adamoss/kali2-base if you wish      ##
 ####################################################
@@ -7,7 +8,7 @@ MAINTAINER Adam Ossenford <AdamOssenford@gmail.com>
 ####################################################
 # UPDATE APT AND INSTALL THE METASPLOIT FRAMEWORK
 ####################################################
-RUN apt-get update -y && apt-get install metasploit-framework -y && msfupdate
+RUN apt-get update -y && apt-get upgrade -y &&  apt-get install metasploit-framework python-crypto  -y && msfupdate
 
 ####################################################
 # CUSTOMIZE METASPLOIT BANNER TO SOMETHING SECKC
