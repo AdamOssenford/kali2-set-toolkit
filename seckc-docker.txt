@@ -1,0 +1,37 @@
+yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyys+//+osssyyyyssyysyyyssyyyyyyyyyyyyyyyyyyyy
+yyyyyyyyyyyyyyyyyyyyyyyyyyyyso+--.....--/+osssssssssssssysssssyyyyyyyyyyyyy
+yyyyyyyyyyyyyyyyyyyyyyyyyso/-.`............--:+ossssssssssssssssssssyyyyyyy
+yyyyyyyyyyyyyyyyyyyyyyso/-.``.`...`..`.`.`......--/+ossssssssssssssysyysyss
+yyysyyyyyyyyyyyysysso/-.``.`...`..`..`.-...``........-:/+ssssssssssssssssss
+yyyyyyyyyyyysyysso:..`````..`..`....-.`.`.--.....`...-.-.-::+osssssssssssss
+yyssysssssssss+:.``````.```````...............--.--........-..-:+ssssssssss
+ysssyssssss+:.``````````````  ````````   ``    .:...-:..-...-.-:-+sssssssss
+ssssysss+-````````````````.`.--:::::--------..` ..-.....--..-.-:./ossssssss
+ssssssso.```````````````.`.-/++oooo+++++++++/:.` -...--..-..-`..--+ssssssss
+sssssso:.````````````````.`/+ooooooooooooooo+/:.``-.`.......--....:osssssss
+ssssso+-.````````````````.-+ooooooooooooooooo+/-` `.``....-.......-+sssssss
+ssssoo+-.```````````````../+oooooooooooooooooo+:.` .``.-`..`.-.`.`.:sssssss
+sssso+/-````````````` -+oooooooooooooooooooooooooo+/:. `..--`..`..`-+ssssss
+ssoooo/:```````````````:+oooooooooooooooooooooooooooo+/-``.....```..:ssssss
+sooooo/:`````````````````.:ooooooooooooooooooo++/-``........```.`.``-+sssss
+oooooo/:.`````````` `````.-oooooooooooooooooooo+/-``.```..````..`````:sssss
+oooooo/:.`````````````````.:ooooooooooooooooooo++/-` `..`````..``````-+ssss
+oooooo+:.````````` ` `````:+oooooooooooooooooooo+/-.  `..``.```.````.:sssss
+oooooo+:.```` `` ```    ``-+ooooooooooooooooo+++/:```.```````.````````-osss
+oooooo+:-```` ``` ```.-/+oooooooooooooooooooo++/:` .``````.````````````/sss
+oooooo+/-``````  ```-///++ooooooooooooooooooo++:.  . ``````````````````-sss
+ooooo++/-````    `.:/++ooooooooooooooooooo+oo++:. `````````.`````````.`.oss
+ooooo++/-``    ``-:/++ooooooooooooooooo+:..-:/:-` ```````````````````.-+sss
+ooooo++/-.`  ``-:/+++ooooooooooooooooo+-` `````````````````````````.-:+ooss
+ooooo++/:.` `.:/+++oooooooooooooooooo+:-``   ````````````` `` ```.-:/+oooss
+oooo+++//:--:/+++ooooooooooooooooooo++/-``````````` ``   `` ```.-:/++ooosss
+oooo++++///++++ooooooooooooooooooooo+/:````` ``` `` ``  `  `..::/++ooooosss
+o##################################+/:``` ``     ``` `` ``.-://++ooooooooss
+o#                                #+/-` ````  ``   ` ```.-://+++oooooooosss
+o#   DOCKER IMAGE FOR KALI 2.0    #+/-.` ```` ``  ````.-:/+++++ooooooooosss
+o#                                #+/:-.` ```  ` ```-://+++++oooooooooooooo
+o#     VISIT US AT SECKC.ORG      #+/:-.` `   ``.-://++++++ooooooooooooosss
+o#      FOLLOW US @sec_kc         #+++/:-.`````.:://++++++oooooooooooooooos
+o#                                #+++//:-----://+++++++++oooooooooooooooos
+o#      IMPRESS US AT TRIKC       #+++//:----://++++++++++oooooooooooooooos
+o##################################+++++///////++++++++oo+oooooooooooooooos
