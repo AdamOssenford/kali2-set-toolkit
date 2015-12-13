@@ -42,4 +42,4 @@ RUN sed -i 's/.*Do you agree to the terms of service.*/	choice = \"y\"/g' setool
 ##############################
 # ENTER SET DOJO           ###
 ##############################
-CMD cd /usr/local/social-engineer-toolkit/; ./setoolkit
+CMD cat /usr/share/metasploit-framework/data/logos/cowsay.txt && sleep 2 && cd /usr/local/social-engineer-toolkit/; ./setoolkit
