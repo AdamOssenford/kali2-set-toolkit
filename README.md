@@ -7,6 +7,8 @@ USAGE
 docker run -it adamoss/kali2-set-toolkit
 
 docker run -it --net=host adamoss/kali2-set-toolkit
+
+docker run -it --net=host -v /tmp/:/var/www/ adamoss/kali2-set-toolkit
 ```
 ## if you want to enter without launching set
 ```
